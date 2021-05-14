@@ -3,7 +3,7 @@
 <!--
 **Alexis-Elaxis/Alexis-Elaxis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Hi, i love front-end.
 
 - 🔭 I’m currently working on 504 Discord Bot
 - 🌱 I’m currently learning JavaScript
