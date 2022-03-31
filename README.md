@@ -12,7 +12,7 @@ Hi, i love front-end.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
-- ⚡ Fun fact: I have a Twitch Channel (Chambre_314) & Youtube Channel (Alexiis)
+- ⚡ Fun fact: I have a Youtube Channel (AlexSki)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexis-Elaxis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-Elaxis&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
