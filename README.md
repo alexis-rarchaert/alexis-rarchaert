@@ -18,4 +18,14 @@ Hi, i love front-end.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-Elaxis&layout=compact&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+CSS          1 hr 21 mins    ██████████▒░░░░░░░░░░░░░░   41.80 %
+PHP          57 mins         ███████▒░░░░░░░░░░░░░░░░░   29.60 %
+HTML         43 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
+JavaScript   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
 <!--END_SECTION:waka-->
