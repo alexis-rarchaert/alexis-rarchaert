@@ -6,7 +6,7 @@
 Hi, i love front-end.
 
 - 🔭 I’m currently working on cool projects
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Vue.Js
 - 👯 I’m the owner of [Woopy project](https://github.com/Alexis-Elaxis/Woopy)
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
