@@ -20,7 +20,7 @@ Hi, i love front-end.
 <!--START_SECTION:waka-->
 
 ```text
-Other        10 hrs 2 mins   ████████████████████████▓   98.49 %
+Other   26 hrs 14 mins  ████████████████████████▒   97.58 %
 ```
 
 <!--END_SECTION:waka-->
