@@ -20,8 +20,7 @@ Hi, i love front-end.
 <!--START_SECTION:waka-->
 
 ```text
-HTML   38 mins         █████████████▒░░░░░░░░░░░   53.58 %
-PHP    33 mins         ███████████▓░░░░░░░░░░░░░   46.42 %
+HTML   37 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
