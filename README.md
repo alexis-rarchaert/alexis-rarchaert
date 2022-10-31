@@ -20,7 +20,11 @@ Hi, i love front-end.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CSS          54 mins         █████████████▓░░░░░░░░░░░   54.62 %
+JavaScript   31 mins         ████████░░░░░░░░░░░░░░░░░   31.75 %
+HTML         11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
