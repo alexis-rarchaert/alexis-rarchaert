@@ -20,7 +20,10 @@ Hi, i love front-end.
 <!--START_SECTION:waka-->
 
 ```text
-PHP   1 min           █████████████████████████   100.00 %
+JavaScript   36 mins         ████████████████████████░   95.37 %
+PHP          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
