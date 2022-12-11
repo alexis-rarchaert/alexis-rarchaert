@@ -17,6 +17,7 @@ Hi, i love front-end.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexis-Elaxis&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexis-Elaxis&layout=compact&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+Last week stats:
 <!--START_SECTION:waka-->
 
 ```text
