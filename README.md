@@ -21,7 +21,10 @@ Last week stats:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+CSS          24 mins         ██████████▓░░░░░░░░░░░░░░   42.34 %
+JavaScript   18 mins         ████████▒░░░░░░░░░░░░░░░░   32.75 %
+HTML         11 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+XML          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
