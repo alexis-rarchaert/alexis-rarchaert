@@ -21,8 +21,7 @@ Last week stats:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   43 mins         ██████████████████████▒░░   88.84 %
-JSON         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
