@@ -21,7 +21,10 @@ Last week stats:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   1 hr 32 mins    ███████████████████████▓░   94.29 %
+Bash         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
