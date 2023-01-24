@@ -21,7 +21,10 @@ Last week stats:
 <!--START_SECTION:waka-->
 
 ```text
-Python   40 mins         █████████████████████████   100.00 %
+Python       40 mins         ██████████████▓░░░░░░░░░░   58.75 %
+JavaScript   26 mins         █████████▓░░░░░░░░░░░░░░░   38.79 %
+Dart         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
