@@ -21,8 +21,7 @@ Last week stats:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 mins          ██████████████████████░░░   87.57 %
-Git Config   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 %
+HTML   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
