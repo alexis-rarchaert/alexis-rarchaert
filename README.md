@@ -21,7 +21,7 @@ Last week stats:
 <!--START_SECTION:waka-->
 
 ```text
-Other   3 hrs 8 mins    ██████████████████████░░░   88.13 %
+Other   4 hrs 48 mins   ███████████████████████░░   91.87 %
 ```
 
 <!--END_SECTION:waka-->
