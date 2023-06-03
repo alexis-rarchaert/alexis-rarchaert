@@ -20,10 +20,9 @@ Hi, i love front-end.
 Last week stats:
 <!--START_SECTION:waka-->
 
-```text
-PHP    1 hr 50 mins    ████████████████████▓░░░░   83.13 %
-CSS    22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
-HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```txt
+PHP   1 hr 50 mins    ████████████████████▓░░░░   83.13 %
+CSS   22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
 ```
 
 <!--END_SECTION:waka-->
