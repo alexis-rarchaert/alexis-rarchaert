@@ -21,7 +21,9 @@ Last week stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   23 mins         █████████████████████████   100.00 %
+PHP     1 hr 5 mins     █████████████████▓░░░░░░░   70.25 %
+Other   23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.70 %
+CSS     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
