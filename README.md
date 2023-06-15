@@ -21,9 +21,7 @@ Last week stats:
 <!--START_SECTION:waka-->
 
 ```txt
-Other   7 mins          ███████████████░░░░░░░░░░   60.45 %
-YAML    2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.68 %
-Text    1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+Other   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
