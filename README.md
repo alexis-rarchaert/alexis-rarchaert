@@ -5,7 +5,7 @@
 
 Hi, i love front-end.
 
-![](https://komarev.com/ghpvc/?username=Alexis-Elaxis)
+![](https://komarev.com/ghpvc/?username=Alexis-Elaxis&color=lightgrey)
 
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m currently learning Vue.Js
