@@ -5,6 +5,8 @@
 
 Hi, i love front-end.
 
+![](https://komarev.com/ghpvc/?username=Alexis-Elaxis)
+
 - 🔭 I’m currently working on cool projects
 - 🌱 I’m currently learning Vue.Js
 - 👯 I’m the owner of [Woopy](https://github.com/Alexis-Elaxis/Woopy)
