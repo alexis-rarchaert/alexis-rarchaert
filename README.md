@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   43 mins         ████████████████████▓░░░░   82.09 %
-JSON    9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
