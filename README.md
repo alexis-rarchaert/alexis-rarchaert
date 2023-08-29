@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java             1 hr 7 mins     █████████████████░░░░░░░░   68.39 %
+Gradle           8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+YAML             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Markdown         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Ezhil            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
