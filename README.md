@@ -6,8 +6,6 @@
 
 <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-rarchaert
-)
 <!--START_SECTION:waka-->
 
 ```txt
