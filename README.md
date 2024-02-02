@@ -9,9 +9,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other          27 hrs 16 mins  ████████████████████████▓   99.23 %
-Figma Design   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-PHP            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other          24 hrs 28 mins  ████████████████████████▓   99.17 %
+Figma Design   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
