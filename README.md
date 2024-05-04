@@ -6,6 +6,9 @@
 
 <hr>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexis-rarchaert&theme=dark&locale=fr&date_format=j%20M%5B%20Y%5D&card_width=1200)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexis-rarchaert&theme=dark)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -17,3 +20,4 @@ HTML            21 mins         █░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
