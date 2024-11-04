@@ -12,7 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Twig   15 mins         ██████████▒░░░░░░░░░░░░░░   40.78 %
+HTML   13 mins         ████████▓░░░░░░░░░░░░░░░░   34.31 %
+PHP    9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
+CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
