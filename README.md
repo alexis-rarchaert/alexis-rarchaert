@@ -5,7 +5,7 @@ Je suis Alexis Rarchaert, étudiant en BUT MMI à l'IUT de Castres.
 - 🌱 Auto-Entrepreneur (Développement Web, Hébergement) : [Notabl.](https://notabl.fr)
 - 🌱 Je créé une appli mobile: [FreshAlert](https://freshalert.fr)
 - 📚 En cours de formation : [BUT MMI](https://mmi.iut-tlse3.fr)
-- 🖊️ Notion Campus Leader : [Notion](https://www.notion.so/)
+- 🖊️ Notion Campus Leader : [Notion](https://www.ntn.so/alexisr)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexis-rarchaert&theme=dark)
 <!--START_SECTION:waka-->
