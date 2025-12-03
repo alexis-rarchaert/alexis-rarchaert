@@ -11,11 +11,11 @@ Je suis Alexis Rarchaert, étudiant en BUT MMI à l'IUT de Castres.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   4 hrs 7 mins    █████████████████████▒░░░   85.32 %
-HTML         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-Python       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+JavaScript   1 hr 50 mins    ██████████████████▒░░░░░░   73.47 %
+HTML         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+Python       12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
