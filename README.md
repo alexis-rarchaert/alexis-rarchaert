@@ -2,7 +2,7 @@
 
 Je suis Alexis Rarchaert, étudiant en BUT MMI à l'IUT de Castres.
 
-- 🌱 Auto-Entrepreneur (Développement Web, Hébergement) : [Notabl.](https://notabl.fr)
+- 🌱 Chiffrex (w. [@MateoBonneton]([https://chiffrex.fr](https://github.com/MateoBonneton/))) : [Chiffrex](https://chiffrex.fr)
 - 🌱 Je créé une appli mobile: [FreshAlert](https://freshalert.fr)
 - 🖊️ Notion Campus Leader : [Notion](https://www.ntn.so/alexisr)
 
